@@ -1,0 +1,14 @@
+D:\1263074\AbdulKader_1263074Sln\AbdulKader_1263074\bin\Debug\AbdulKader_1263074.exe.config
+D:\1263074\AbdulKader_1263074Sln\AbdulKader_1263074\bin\Debug\AbdulKader_1263074.exe
+D:\1263074\AbdulKader_1263074Sln\AbdulKader_1263074\bin\Debug\AbdulKader_1263074.pdb
+D:\1263074\AbdulKader_1263074Sln\AbdulKader_1263074\obj\Debug\AbdulKader_1263074.csprojAssemblyReference.cache
+D:\1263074\AbdulKader_1263074Sln\AbdulKader_1263074\obj\Debug\AbdulKader_1263074.csproj.CoreCompileInputs.cache
+D:\1263074\AbdulKader_1263074Sln\AbdulKader_1263074\obj\Debug\AbdulKader_1263074.exe
+D:\1263074\AbdulKader_1263074Sln\AbdulKader_1263074\obj\Debug\AbdulKader_1263074.pdb
+E:\1263074\AbdulKader_1263074Sln\AbdulKader_1263074\bin\Debug\AbdulKader_1263074.exe.config
+E:\1263074\AbdulKader_1263074Sln\AbdulKader_1263074\bin\Debug\AbdulKader_1263074.exe
+E:\1263074\AbdulKader_1263074Sln\AbdulKader_1263074\bin\Debug\AbdulKader_1263074.pdb
+E:\1263074\AbdulKader_1263074Sln\AbdulKader_1263074\obj\Debug\AbdulKader_1263074.csproj.AssemblyReference.cache
+E:\1263074\AbdulKader_1263074Sln\AbdulKader_1263074\obj\Debug\AbdulKader_1263074.csproj.CoreCompileInputs.cache
+E:\1263074\AbdulKader_1263074Sln\AbdulKader_1263074\obj\Debug\AbdulKader_1263074.exe
+E:\1263074\AbdulKader_1263074Sln\AbdulKader_1263074\obj\Debug\AbdulKader_1263074.pdb
